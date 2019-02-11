@@ -1,0 +1,58 @@
+
+html
+{
+    margin: 0px;
+    padding: 0px;
+}
+
+body {
+  background-color: black;
+}
+
+img {
+    
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    margin-bottom: 5%;
+    margin-top: -1%;
+    width: 80%;
+    position: center;
+    top: 500;
+    z-index: -1;
+   
+}
+
+  
+
+h1 {
+   color: white;
+    position: absolute;
+    top: 20px;
+    z-index: 1;
+    font-family: "Univers LT Std";
+    letter-spacing: 10px;
+    font-size: 12pt;
+    margin-left: 20pt;
+    
+    
+        
+}
+
+
+h2 {
+    
+    color: white;
+    position: relative;
+    top: 650px;
+    z-index: 1;
+    font-family: "Univers Lt Std";
+    letter-spacing: 10px;
+    font-size: 12pt;
+    margin-left: 20pt;
+}
+
+
+
+
+
