@@ -30,7 +30,7 @@ h1 {
     position: absolute;
     top: 20px;
     z-index: 1;
-    font-family: "Univers LT Std";
+    font-family: "Helvetica";
     letter-spacing: 10px;
     font-size: 12pt;
     margin-left: 20pt;
@@ -46,7 +46,7 @@ h2 {
     position: relative;
     top: 650px;
     z-index: 1;
-    font-family: "Univers Lt Std";
+    font-family: "Helvetica";
     letter-spacing: 10px;
     font-size: 12pt;
     margin-left: 20pt;
