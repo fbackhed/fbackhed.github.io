@@ -17,6 +17,7 @@ html, body {
   height: 100%;
 }
 
+
 img {
     
     display: block;
@@ -51,8 +52,8 @@ h1 {
 h2 {
     
     color: white;
-    position: relative;
-    top: 630px;
+    position: fixed;
+    bottom: 0px;
     z-index: 1;
     font-family: "Helvetica";
     letter-spacing: 10px;
