@@ -61,6 +61,10 @@ h2 {
     margin-left: 20pt;
 }
 
+.slick-prev:before,
+.slick-next:before {
+   display:none;
+}
 
 
 
