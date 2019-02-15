@@ -1,7 +1,3 @@
-@font-face {
-  font-family: 'Monument';
-  src: url('font/MonumentGroteskTrial-Medium.woff')
-}
 
 html
 {
@@ -43,7 +39,7 @@ h1 {
     position: absolute;
     top: 20px;
     z-index: 1;
-    font-family: 'Monument';
+    font-family: "Helvetica";
     letter-spacing: 10px;
     font-size: 12pt;
     margin-left: 20pt;
