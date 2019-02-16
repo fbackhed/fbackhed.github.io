@@ -17,6 +17,12 @@ html, body {
   height: 100%;
 }
 
+@font-face {
+  font-family: 'suisse';
+  src: url(fonts/SuisseIntl-book.otf);
+  font-weight: normal;
+    font-style: normal;
+}
 
 img {
     
@@ -39,7 +45,7 @@ h1 {
     position: absolute;
     top: 20px;
     z-index: 1;
-    font-family: "Helvetica";
+    font-family: suisse;
     letter-spacing: 10px;
     font-size: 12pt;
     margin-left: 20pt;
@@ -55,7 +61,7 @@ h2 {
     position: fixed;
     bottom: 0px;
     z-index: 1;
-    font-family: "Helvetica";
+    font-family: suisse;
     letter-spacing: 10px;
     font-size: 12pt;
     margin-left: 20pt;
