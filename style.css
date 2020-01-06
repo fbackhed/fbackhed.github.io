@@ -18,8 +18,8 @@ html, body {
 }
  
 @font-face {
-  font-family: 'suisse';
-  src: url('../fonts/SuisseIntl-Book.otf');
+  font-family: 'authentic';
+  src: url('../fonts/AUTHENTICSans-60.otf');
   font-weight: 100;
     font-style: normal;
 }
@@ -45,7 +45,7 @@ h1 {
     position: absolute;
     top: 20px;
     z-index: 1;
-    font-family: "suisse";
+    font-family: "authentic";
     letter-spacing: 10px;
     font-size: 12pt;
     margin-left: 20pt;
@@ -61,7 +61,7 @@ h2 {
     position: fixed;
     bottom: 0px;
     z-index: 1;
-    font-family: "suisse";
+    font-family: "authentic";
     letter-spacing: 10px;
     font-size: 12pt;
     margin-left: 20pt;
