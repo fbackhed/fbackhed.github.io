@@ -1,0 +1,535 @@
+
+
+body {
+  background-color: black;
+	
+}
+
+html, body {
+  height: 100%;
+}
+
+.full-height {
+  height: 100%;
+}
+ 
+.rect {
+	z-index:-2;
+	position: absolute;
+	background:white;
+	width:100%;
+	height:12%;
+	margin-left: 0%;
+	top:0%
+	
+	
+}
+
+.rect2 {
+	transform: rotate(135deg);
+	z-index:-2;
+	position: absolute;
+	background:white;
+	width:15%;
+	height:0.7%;
+	margin-left: 5%;
+	top:25%
+	
+	
+}
+
+.rect3 {
+	transform: rotate(270deg);
+	z-index:-2;
+	position: absolute;
+	background:white;
+	width:10%;
+	height:0.7%;
+	margin-left: 55%;
+	top:70%
+	
+	
+}
+
+.rect4 {
+	transform: rotate(20deg);
+	z-index:-2;
+	position: absolute;
+	background:white;
+	width:15%;
+	height:0.7%;
+	margin-left: 60%;
+	top:40%
+	
+	
+}
+
+.rect5 {
+	transform: rotate(180deg);
+	z-index:-2;
+	position: absolute;
+	background:white;
+	width:15%;
+	height:0.7%;
+	margin-left: 5%;
+	top:85%
+	
+	
+}
+
+
+
+
+
+.image1 {
+
+   
+}
+
+.image2 {
+    
+    display: block;
+	position:absolute;
+    margin-left: 700px;
+    margin-right: auto;
+    margin-bottom: 0%;
+    width: 200px;
+    position: center;
+    top: 22%;
+    z-index: -1;
+   
+}
+
+h1 {
+   color: black;
+    position: absolute;
+    top: 20px;
+    z-index: 1;
+    font-family: -apple-system,BlinkMacSystemFont,'avenir next',avenir,'helvetica neue',helvetica,ubuntu,roboto,noto,'segoe ui',arial,sans-serif;
+    letter-spacing: 20px;
+    font-size: 20pt;
+    margin-left: 20pt;
+    
+    
+        
+}
+
+p {
+color: black;
+    position: absolute;
+    top: 182px;
+    z-index: 1;
+    font-family: -apple-system,BlinkMacSystemFont,'avenir next',avenir,'helvetica neue',helvetica,ubuntu,roboto,noto,'segoe ui',arial,sans-serif;
+    letter-spacing: 2px;
+    font-size: 10pt;
+    margin-left: 70pt;
+}
+
+p2 {
+color: black;
+    position: absolute;
+    top: 220px;
+    z-index: 1;
+    font-family: -apple-system,BlinkMacSystemFont,'avenir next',avenir,'helvetica neue',helvetica,ubuntu,roboto,noto,'segoe ui',arial,sans-serif;
+    letter-spacing: 2px;
+    font-size: 10pt;
+    margin-left: 70pt;
+}
+
+
+.two {
+color: black;
+    position: absolute;
+    top: 270px;
+    z-index: 1;
+    font-family: -apple-system,BlinkMacSystemFont,'avenir next',avenir,'helvetica neue',helvetica,ubuntu,roboto,noto,'segoe ui',arial,sans-serif;
+    letter-spacing: 2px;
+    font-size: 10pt;
+    margin-left:70pt;
+}
+
+
+
+
+p3 {
+color: white;
+    position: absolute;
+    top: 490px;
+    z-index: 1;
+    font-family: -apple-system,BlinkMacSystemFont,'avenir next',avenir,'helvetica neue',helvetica,ubuntu,roboto,noto,'segoe ui',arial,sans-serif;
+    letter-spacing: 2px;
+    font-size: 10pt;
+    margin-left: 500pt;
+}
+
+
+p4 {
+    
+    color: black;
+    position: absolute;
+    top: 30px;
+    z-index: 1;
+    font-family: -apple-system,BlinkMacSystemFont,'avenir next',avenir,'helvetica neue',helvetica,ubuntu,roboto,noto,'segoe ui',arial,sans-serif;
+    letter-spacing: 2px;
+    font-size: 10pt;
+    margin-left: 20pt;
+    display:inline;
+}
+
+p5 {
+	position: absolute;
+	color: blue;
+	margin-left: 50pt;
+	bottom: 500px;
+	 z-index: -1;
+    font-family: -apple-system,BlinkMacSystemFont,'avenir next',avenir,'helvetica neue',helvetica,ubuntu,roboto,noto,'segoe ui',arial,sans-serif;
+    letter-spacing: 2px;
+    font-size: 12pt;
+}
+
+p6 {
+	position: absolute;
+	color: blue;
+	margin-left: 50pt;
+	bottom: 410px;
+	 z-index: -1;
+    font-family: -apple-system,BlinkMacSystemFont,'avenir next',avenir,'helvetica neue',helvetica,ubuntu,roboto,noto,'segoe ui',arial,sans-serif;
+    letter-spacing: 2px;
+    font-size: 12pt;
+}
+
+p7 {
+	position: absolute;
+	color: blue;
+	margin-left: 50pt;
+	bottom: 460px;
+	 z-index: -1;
+    font-family: -apple-system,BlinkMacSystemFont,'avenir next',avenir,'helvetica neue',helvetica,ubuntu,roboto,noto,'segoe ui',arial,sans-serif;
+    letter-spacing: 2px;
+    font-size: 12pt;
+}
+
+p8 {
+	position: absolute;
+	color: blue;
+	margin-left: 50pt;
+	bottom: 140px;
+	 z-index: -1;
+    font-family: -apple-system,BlinkMacSystemFont,'avenir next',avenir,'helvetica neue',helvetica,ubuntu,roboto,noto,'segoe ui',arial,sans-serif;
+    letter-spacing: 2px;
+    font-size: 12pt;
+}
+
+p9 {
+	position: absolute;
+	color: black;
+	margin-left: 500pt;
+	bottom: 220px;
+	 z-index: -1;
+    font-family: -apple-system,BlinkMacSystemFont,'avenir next',avenir,'helvetica neue',helvetica,ubuntu,roboto,noto,'segoe ui',arial,sans-serif;
+    letter-spacing: 2px;
+    font-size: 12pt;
+}
+
+p10 {
+	position: absolute;
+	color: blue;
+	margin-left: 220pt;
+	bottom: 460px;
+	 z-index: -1;
+    font-family: -apple-system,BlinkMacSystemFont,'avenir next',avenir,'helvetica neue',helvetica,ubuntu,roboto,noto,'segoe ui',arial,sans-serif;
+    letter-spacing: 2px;
+    font-size: 12pt;
+}
+
+p11 {
+	position: absolute;
+	color: whitesmoke;
+	margin-left: 100pt;
+	bottom:60%;
+	 z-index: -1;
+    font-family: -apple-system,BlinkMacSystemFont,'avenir next',avenir,'helvetica neue',helvetica,ubuntu,roboto,noto,'segoe ui',arial,sans-serif;
+    letter-spacing: 2px;
+    font-size: 10pt;
+}
+
+p13 {
+	position: absolute;
+	color: whitesmoke;
+	margin-left: 335pt;
+	top:65%;
+	 z-index: -1;
+    font-family: -apple-system,BlinkMacSystemFont,'avenir next',avenir,'helvetica neue',helvetica,ubuntu,roboto,noto,'segoe ui',arial,sans-serif;
+    letter-spacing: 2px;
+    font-size: 10pt;
+}
+
+p14 {
+	position: absolute;
+	color: whitesmoke;
+	margin-left: 100pt;
+	top:65%;
+	 z-index: -1;
+    font-family: -apple-system,BlinkMacSystemFont,'avenir next',avenir,'helvetica neue',helvetica,ubuntu,roboto,noto,'segoe ui',arial,sans-serif;
+    letter-spacing: 2px;
+    font-size: 10pt;
+}
+
+p15 {
+	position: absolute;
+	color: whitesmoke;
+	margin-left: 570pt;
+	top:65%;
+	 z-index: -1;
+    font-family: -apple-system,BlinkMacSystemFont,'avenir next',avenir,'helvetica neue',helvetica,ubuntu,roboto,noto,'segoe ui',arial,sans-serif;
+    letter-spacing: 2px;
+    font-size: 10pt;
+}
+
+
+
+
+
+
+a:link {
+    color: black;
+    background-color: transparent;
+    text-decoration: none;
+}
+a:visited {
+    color: black;
+    background-color: transparent;
+    text-decoration: none;
+}
+a:hover {
+    color: grey;
+    background-color: transparent;
+    text-decoration: none;
+}
+a:active {
+    color: black;
+    background-color: transparent;
+    text-decoration: none;
+}
+
+.siteurl:link {
+    color: black;
+    background-color: transparent;
+    text-decoration: none;
+}
+.siteurl:visited {
+    color: black;
+    background-color: transparent;
+    text-decoration: none;
+}
+.siteurl:hover {
+    color: grey;
+    background-color: transparent;
+    text-decoration: none;
+}
+.siteurl:active {
+    color: grey;
+    background-color: transparent;
+    text-decoration: none;
+}
+
+
+
+h2 {
+    
+    color: blue;
+    position: fixed;
+    bottom: 5px;
+    z-index: 1;
+    font-family: "suisse";
+    letter-spacing: 10px;
+    font-size: 70pt;
+    margin-left: 300pt;
+    display:inline;
+}
+
+
+h3 {
+    
+    color: black;
+    position: fixed;
+    bottom: 20px;
+    z-index: 1;
+    font-family: "suisse";
+    letter-spacing: 10px;
+    font-size: 12pt;
+    margin-left: 20pt;
+    display:inline;
+}
+
+img {
+	position: absolute;
+	z-index:-2;
+	top:90px;
+	width: 600px;
+	margin-top:20px;
+	margin-left:220px;
+}
+
+.a3 {
+margin-left: 100pt;
+
+}
+
+.a4 {
+margin-left: 150pt;
+
+}
+
+.a5 {
+margin-left: 150pt;
+
+}
+
+
+@media (max-width: 950px) {
+.a3 {
+margin-left: 50pt;
+
+}
+
+.a4 {
+margin-left: 100pt;
+
+}
+
+.a5 {
+margin-left: 100pt;
+
+}
+
+p13 {
+margin-left: 285pt;
+
+
+}
+
+p15 {
+margin-left: 520pt;
+
+
+}
+
+}
+
+@media (max-width: 750px){
+.a3 {
+margin-left: 30pt;
+
+}
+
+.a4 {
+margin-left: 80pt;
+
+}
+
+.a5 {
+margin-left: 80pt;
+
+}
+
+p13 {
+margin-left: 265pt;
+
+
+}
+
+p15 {
+margin-left: 450pt;
+
+
+}
+
+}
+
+@media (max-width: 550px){
+.a3 {
+margin-left: 10pt;
+
+}
+
+.a4 {
+margin-left: 20pt;
+
+}
+
+.a5 {
+margin-left: 20pt;
+
+}
+
+p13 {
+margin-left: 50pt;
+
+
+}
+
+p14 {
+margin-left: 50pt;
+top:250pt;
+
+}
+
+p11 {
+margin-left: 50pt;
+
+
+}
+
+p15 {
+margin-left: 200pt;
+
+
+}
+
+}
+
+    @media only screen 
+  and (min-device-width: 375px) 
+  and (max-device-width: 667px)
+  and (-webkit-min-device-pixel-ratio: 2){
+.a3 {
+margin-left: 10pt;
+
+}
+
+.a4 {
+margin-left: 20pt;
+
+}
+
+.a5 {
+margin-left: 20pt;
+
+}
+
+p13 {
+margin-left: 50pt;
+
+
+}
+
+p14 {
+margin-left: 50pt;
+top:250pt;
+
+}
+
+p11 {
+margin-left: 50pt;
+
+
+}
+
+p15 {
+margin-left: 200pt;
+
+
+}
+
+  }
