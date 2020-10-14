@@ -277,6 +277,14 @@ h3 {
     display:inline;
 }
 
+img {
+	position: absolute;
+	z-index:-2;
+	top:90px;
+	width:20%;
+	margin-top:20px;
+	
+}
 
 
 
@@ -416,7 +424,7 @@ position: absolute;
 
     @media only screen 
   and (min-device-width: 375px) 
-  and (max-device-width: 669px)
+  and (max-device-width: 668px)
   and (-webkit-min-device-pixel-ratio: 2){
 
 
