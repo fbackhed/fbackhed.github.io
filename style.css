@@ -291,34 +291,34 @@ img {
 
 
 .a3 {
-margin-left: 100pt;
+margin-left: 0pt;
 
 }
 
 .a4 {
-margin-left: 150pt;
+margin-left: 0pt;
 
 }
 
 .a5 {
-margin-left: 150pt;
+margin-left:0pt;
 
 }
 
 
 @media (max-width: 950px) {
 .a3 {
-margin-left: 50pt;
+margin-left: 0pt;
 
 }
 
 .a4 {
-margin-left: 100pt;
+margin-left: 0pt;
 
 }
 
 .a5 {
-margin-left: 100pt;
+margin-left: 0pt;
 
 }
 
@@ -338,17 +338,17 @@ margin-left: 520pt;
 
 @media (max-width: 750px){
 .a3 {
-margin-left: 30pt;
+margin-left: 0pt;
 
 }
 
 .a4 {
-margin-left: 80pt;
+margin-left: 0pt;
 
 }
 
 .a5 {
-margin-left: 80pt;
+margin-left: 0pt;
 
 }
 
@@ -368,17 +368,17 @@ margin-left: 450pt;
 
 @media (max-width: 700px){
 .a3 {
-margin-left: 10pt;
+margin-left: 0pt;
 
 }
 
 .a4 {
-margin-left: 20pt;
+margin-left: 0pt;
 
 }
 
 .a5 {
-margin-left: 20pt;
+margin-left: 0pt;
 
 }
 
@@ -424,11 +424,25 @@ position: absolute;
 
     @media only screen 
   and (min-device-width: 375px) 
-  and (max-device-width: 668px)
+  and (max-device-width: 669px)
   and (-webkit-min-device-pixel-ratio: 2){
 
 
 
+.a3 {
+margin-left: 0pt;
+
+}
+
+.a4 {
+margin-left: 0pt;
+
+}
+
+.a5 {
+margin-left: 0pt;
+
+}
 
 p13 {
 margin-left: 50pt;
