@@ -1,10 +1,3 @@
-
-
-body {
-  background-color: black;
-	
-}
-
 html, body {
   height: 100%;
 }
@@ -13,6 +6,8 @@ html, body {
   height: 100%;
 }
  
+
+
 .rect {
 	z-index:-2;
 	position: absolute;
@@ -25,6 +20,12 @@ html, body {
 	
 }
 
+
+
+body {
+  background-color: black;
+    
+}
 
 
 
