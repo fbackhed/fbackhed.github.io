@@ -176,6 +176,19 @@ p4 {
     display:inline;
 }
 
+p20 {
+    
+    color: black;
+    position: absolute;
+    top: 30px;
+    z-index: 1;
+    font-family: -apple-system,BlinkMacSystemFont,'avenir next',avenir,'helvetica neue',helvetica,ubuntu,roboto,noto,'segoe ui',arial,sans-serif;
+    letter-spacing: 2px;
+    font-size: 10pt;
+    margin-left: 200pt;
+    display:inline;
+}
+
 p5 {
 	position: absolute;
 	color: blue;
@@ -491,20 +504,24 @@ margin-left: 200pt;
 
     @media only screen 
   and (min-device-width: 375px) 
-  and (max-device-width: 668px)
+  and (max-device-width: 669px)
   and (-webkit-min-device-pixel-ratio: 2){
+
+
+
 .a3 {
-margin-left: 10pt;
+margin-left: 0pt;
+
 
 }
 
 .a4 {
-margin-left: 20pt;
+margin-left: 60pt;
 
 }
 
 .a5 {
-margin-left: 20pt;
+margin-left: 60pt;
 
 }
 
@@ -520,8 +537,22 @@ top:250pt;
 
 }
 
+.p111 {
+margin-left: 50pt;
+bottom:30%;
+
+
+}
+
 p11 {
 margin-left: 50pt;
+bottom:30%;
+
+
+}
+
+.p112 {
+margin-left: 100pt;
 
 
 }
@@ -529,7 +560,34 @@ margin-left: 50pt;
 p15 {
 margin-left: 200pt;
 
-
 }
 
+p4 {
+    
+    color: black;
+    position: absolute;
+    top: 15px;
+    z-index: 1;
+    font-family: -apple-system,BlinkMacSystemFont,'avenir next',avenir,'helvetica neue',helvetica,ubuntu,roboto,noto,'segoe ui',arial,sans-serif;
+    letter-spacing: 2px;
+    font-size: 10pt;
+    margin-left: 20pt;
+    display:inline;
+}
+
+p20 {
+    
+    color: black;
+    position: absolute;
+    top: 40px;
+    z-index: 1;
+    font-family: -apple-system,BlinkMacSystemFont,'avenir next',avenir,'helvetica neue',helvetica,ubuntu,roboto,noto,'segoe ui',arial,sans-serif;
+    letter-spacing: 2px;
+    font-size: 10pt;
+    margin-left: 20pt;
+    display:inline;
+}
+
+
   }
+
