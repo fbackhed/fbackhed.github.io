@@ -394,7 +394,7 @@ p20 {
 
 	  .slideshow-container {
   max-width: 100%;
-  position: absolute;
+  position: relative;
   margin: auto;
   cursor:pointer;
 
@@ -402,7 +402,7 @@ p20 {
 
 .slideshow-container1 {
   max-width: 100%;
-  position: absolute;
+  position: relative;
   margin: auto;
   cursor:pointer;
 
