@@ -40,7 +40,6 @@ body {
     display: block;
 	position:absolute;
     margin-left: 0;
-    
     margin-bottom: 0%;
     width: 20%;
     position: center;
@@ -478,7 +477,7 @@ margin-left: 200pt;
 position: absolute;
     z-index:-2;
     top:90px;
-    width: 600px;
+    width: 20%;
     
     margin-left:-30px;
 }
