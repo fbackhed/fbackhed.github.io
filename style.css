@@ -418,7 +418,7 @@ margin-left: 200pt;
 
     @media only screen 
   and (min-device-width: 375px) 
-  and (max-device-width: 668px)
+  and (max-device-width: 669px)
   and (-webkit-min-device-pixel-ratio: 2){
 
 
@@ -470,7 +470,7 @@ margin-left: 200pt;
 .image2 {
     display: block;
     position:absolute;
-    margin-left: -30px;
+    margin-left: auto;
     margin-right: auto;
     margin-bottom: 0%;
     width: 100%;
