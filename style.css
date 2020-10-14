@@ -431,7 +431,7 @@ margin-left: 200pt;
 
     @media only screen 
   and (min-device-width: 375px) 
-  and (max-device-width: 668px)
+  and (max-device-width: 669px)
   and (-webkit-min-device-pixel-ratio: 2){
 
 
@@ -443,12 +443,12 @@ margin-left: 0pt;
 }
 
 .a4 {
-margin-left: 20pt;
+margin-left: 30pt;
 
 }
 
 .a5 {
-margin-left: 20pt;
+margin-left: 30pt;
 
 }
 
