@@ -41,7 +41,7 @@ body {
 	position:absolute;
     margin-left: 0;
     margin-bottom: 0%;
-    width: 50%;
+    width: 20%;
     position: center;
     top: 22%;
     z-index: -1;
@@ -107,7 +107,7 @@ color: white;
     font-family: -apple-system,BlinkMacSystemFont,'avenir next',avenir,'helvetica neue',helvetica,ubuntu,roboto,noto,'segoe ui',arial,sans-serif;
     letter-spacing: 2px;
     font-size: 10pt;
-    margin-left: 0pt;
+    margin-left: 500pt;
 }
 
 
@@ -171,7 +171,7 @@ p8 {
 p9 {
 	position: absolute;
 	color: black;
-	margin-left: 0pt;
+	margin-left: 500pt;
 	bottom: 220px;
 	 z-index: -1;
     font-family: -apple-system,BlinkMacSystemFont,'avenir next',avenir,'helvetica neue',helvetica,ubuntu,roboto,noto,'segoe ui',arial,sans-serif;
@@ -182,7 +182,7 @@ p9 {
 p10 {
 	position: absolute;
 	color: blue;
-	margin-left: 0pt;
+	margin-left: 220pt;
 	bottom: 460px;
 	 z-index: -1;
     font-family: -apple-system,BlinkMacSystemFont,'avenir next',avenir,'helvetica neue',helvetica,ubuntu,roboto,noto,'segoe ui',arial,sans-serif;
@@ -277,14 +277,6 @@ h3 {
     display:inline;
 }
 
-img {
-	position: absolute;
-	z-index:-2;
-	top:90px;
-	width: 600px;
-	margin-top:20px;
-	margin-left:220px;
-}
 
 
 
@@ -424,7 +416,7 @@ position: absolute;
 
     @media only screen 
   and (min-device-width: 375px) 
-  and (max-device-width: 669px)
+  and (max-device-width: 668px)
   and (-webkit-min-device-pixel-ratio: 2){
 
 
@@ -469,7 +461,7 @@ margin-left: 100pt;
 }
 
 p15 {
-
+margin-left: 200pt;
 
 }
 
