@@ -431,7 +431,7 @@ margin-left: 200pt;
 
     @media only screen 
   and (min-device-width: 375px) 
-  and (max-device-width: 669px)
+  and (max-device-width: 668px)
   and (-webkit-min-device-pixel-ratio: 2){
 
 
@@ -443,12 +443,12 @@ margin-left: 0pt;
 }
 
 .a4 {
-margin-left: 0pt;
+margin-left: 20pt;
 
 }
 
 .a5 {
-margin-left: 0pt;
+margin-left: 20pt;
 
 }
 
@@ -506,7 +506,7 @@ p20 {
     
     color: black;
     position: absolute;
-    top: 30px;
+    top: 40px;
     z-index: 1;
     font-family: -apple-system,BlinkMacSystemFont,'avenir next',avenir,'helvetica neue',helvetica,ubuntu,roboto,noto,'segoe ui',arial,sans-serif;
     letter-spacing: 2px;
