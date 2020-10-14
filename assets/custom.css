@@ -300,7 +300,7 @@ margin-left: 20pt;
 
     @media only screen 
   and (min-device-width: 375px) 
-  and (max-device-width: 668px)
+  and (max-device-width: 669px)
   and (-webkit-min-device-pixel-ratio: 2){
 
 
@@ -321,11 +321,6 @@ margin-left: 60pt;
 
 }
 
-p13 {
-margin-left: 50pt;
-
-
-}
 
 p14 {
 margin-left: 50pt;
