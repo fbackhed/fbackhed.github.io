@@ -300,7 +300,7 @@ margin-left: 20pt;
 
     @media only screen 
   and (min-device-width: 375px) 
-  and (max-device-width: 669px)
+  and (max-device-width: 668px)
   and (-webkit-min-device-pixel-ratio: 2){
 
 
@@ -397,19 +397,19 @@ p20 {
 }
 
 	  .slideshow-container {
-  max-width: 60%;
+  max-width: 100%;
   position: relative;
   margin: auto;
   cursor:pointer;
-
+  align-content: center;
 }
 
 .slideshow-container1 {
-  max-width: 80%;
+  max-width: 100%;
   position: relative;
   margin: auto;
   cursor:pointer;
-
+align-content: center;
 }
 
   }
