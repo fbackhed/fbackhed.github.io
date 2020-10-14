@@ -366,11 +366,65 @@ margin-left: 450pt;
 
 }
 
+@media (max-width: 700px){
+.a3 {
+margin-left: 10pt;
 
+}
+
+.a4 {
+margin-left: 20pt;
+
+}
+
+.a5 {
+margin-left: 20pt;
+
+}
+
+p13 {
+margin-left: 50pt;
+
+
+}
+
+p14 {
+margin-left: 50pt;
+top:250pt;
+
+}
+
+.p111 {
+margin-left: 50pt;
+
+
+}
+
+.p112 {
+margin-left: 200pt;
+
+
+}
+
+p15 {
+margin-left: 200pt;
+
+}
+
+.image2 {
+position: absolute;
+    z-index:-2;
+    top:90px;
+    width: 600px;
+    margin-top:20px;
+    margin-left:-30px;
+}
+
+}
 
     @media only screen 
   and (min-device-width: 375px) 
-  and (max-device-width: 669px)
+  and (max-device-width: 668px)
   and (-webkit-min-device-pixel-ratio: 2){
 
 
@@ -423,7 +477,7 @@ margin-left: 200pt;
 position: absolute;
     z-index:-2;
     top:90px;
-    width: 200px;
+    width: 600px;
     
     margin-left:-30px;
 }
