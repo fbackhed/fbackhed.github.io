@@ -195,6 +195,23 @@ p5 {
     
 }
 
+p19 {
+	color: white;
+	display:block;
+    position: inherit;
+     float:left;
+    text-align:left;
+    margin-left:-28pt;
+    padding:0;
+    border:0;
+    margin-top: 1%;
+    z-index: 1;
+    font-family: -apple-system,BlinkMacSystemFont,'avenir next',avenir,'helvetica neue',helvetica,ubuntu,roboto,noto,'segoe ui',arial,sans-serif;
+    letter-spacing: 2px;
+    font-size: 10pt;
+    
+}
+
 
 p13 {
 color: white;
@@ -231,6 +248,14 @@ img {margin-left:-28pt;}
 
 .slideshow-container1 {
   max-width: 80%;
+  position: relative;
+  margin: auto;
+  cursor:pointer;
+
+}
+
+.slideshow-container1 {
+  max-width: 40%;
   position: relative;
   margin: auto;
   cursor:pointer;
