@@ -225,7 +225,32 @@ p10 {
     font-size: 10pt;
 }
 
+.a10:link {
+    color:white;
+}
 
+.a10:visited {
+    color:white;
+}
+
+.a10:hover {
+    color:grey;
+}
+
+.a10:active {
+    color:grey;
+}
+
+.a10 {
+	position: absolute;
+	color: whitesmoke;
+	margin-left: 450pt;
+	bottom:49%;
+	 z-index: 1;
+    font-family: -apple-system,BlinkMacSystemFont,'avenir next',avenir,'helvetica neue',helvetica,ubuntu,roboto,noto,'segoe ui',arial,sans-serif;
+    letter-spacing: 2px;
+    font-size: 10pt;
+}
 
 
 
